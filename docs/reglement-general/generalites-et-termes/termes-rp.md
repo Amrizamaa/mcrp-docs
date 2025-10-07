@@ -46,7 +46,7 @@ Tuer sans raison, c'est comme prendre le dernier cookie sans demander. Pas cool.
 
 **HRP**
 
-Sortons un instant de notre RP pour parler HRP. Si vous apprenez quelque chose hors du jeu et que vous l'utilisez dans le jeu, c'est comme tricher en contrôle surprise. Pas de ça chez Vespucci, les amis.
+Sortons un instant de notre RP pour parler HRP. Si vous apprenez quelque chose hors du jeu et que vous l'utilisez dans le jeu, c'est comme tricher en contrôle surprise. Pas de ça chez Midnight City, les amis.
 
 **Mass RP**
 

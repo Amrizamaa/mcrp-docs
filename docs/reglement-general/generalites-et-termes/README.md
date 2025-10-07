@@ -1,6 +1,6 @@
 # 🤝 GENERALITÉS ET TERMES
 
-Le présent règlement s'applique dès l'entrée sur le discord ou la plate-forme de jeu de Vespucci, à savoir le serveur FiveM
+Le présent règlement s'applique dès l'entrée sur le discord ou la plate-forme de jeu de Midnight City, à savoir le serveur FiveM
 
 {% hint style="warning" %}
 Règle d'OR :&#x20;
@@ -9,7 +9,7 @@ Règle d'OR :&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-Vespucci est un serveur basé sur le volontariat de ses propriétaires et de son staff. Sur ce serveur un univers américain basé sur la map de GTA V est mis en place. La philosophie de l'équipe du serveur se base sur la tranquillité de ses joueurs et l'offre qui leur est faite, à savoir pouvoir jouer gratuitement sur un serveur de qualité. cela engage le respect des valeurs fondamentales indiqués précédemment.
+Midnight City est un serveur basé sur le volontariat de ses propriétaires et de son staff. Sur ce serveur un univers américain basé sur la map de GTA V est mis en place. La philosophie de l'équipe du serveur se base sur la tranquillité de ses joueurs et l'offre qui leur est faite, à savoir pouvoir jouer gratuitement sur un serveur de qualité. cela engage le respect des valeurs fondamentales indiqués précédemment.
 {% endhint %}
 
 {% hint style="danger" %}

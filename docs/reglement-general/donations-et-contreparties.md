@@ -4,7 +4,7 @@ description: Des petites règles pour encadrer un gros sujet
 
 # 💸 Donations et Contreparties
 
-Sur Vespucci, nous avons mis en place un système de donations avec des petites récompenses pour nous soutenir dans cette aventure. Les récompenses restent purement esthétiques pour garantir une expérience équitable à tous.
+Sur Midnight City, nous avons mis en place un système de donations avec des petites récompenses pour nous soutenir dans cette aventure. Les récompenses restent purement esthétiques pour garantir une expérience équitable à tous.
 
 Les donations auront deux priorités : financer le serveur et acquérir des scripts pour améliorer le gameplay.
 
