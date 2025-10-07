@@ -12,7 +12,7 @@ description: >-
 
 👋 Fondateur du serveur Vespucci
 
-<figure><img src="../../.gitbook/assets/design youtube_ twitch_ gaming_ mascot and avatar logo-1.jpg" alt="Photo de profil de Amrizama Aka Momo" width="375"><figcaption><p>Photo de profil discord de Amrizama</p></figcaption></figure>
+<figure><img src="../../assets/design youtube_ twitch_ gaming_ mascot and avatar logo-1.jpg" alt="Photo de profil de Amrizama Aka Momo" width="375"><figcaption><p>Photo de profil discord de Amrizama</p></figcaption></figure>
 
 ### Bio
 
@@ -22,7 +22,7 @@ Salut à tous, c'est Momo, le cerveau derrière Vespucci! Vous me connaissez peu
 
 👋 Gérant de Vespucci
 
-<figure><img src="../../.gitbook/assets/1599.png" alt="Image de profil de Pablo Aka ZraxTV" width="375"><figcaption><p>Photo de profil discord de Pablo</p></figcaption></figure>
+<figure><img src="../../assets/1599.png" alt="Image de profil de Pablo Aka ZraxTV" width="375"><figcaption><p>Photo de profil discord de Pablo</p></figcaption></figure>
 
 ### Bio
 
@@ -36,6 +36,6 @@ Mon but ? Faire de Vespucci un lieu où le RP sérieux est de mise, mais où l'a
 
 💪🏻 Administrateur de Vespucci RP
 
-<figure><img src="../../.gitbook/assets/image2.png" alt="" width="352"><figcaption><p>Photo de profil de FullBuster / Allan</p></figcaption></figure>
+<figure><img src="../../assets/image2.png" alt="" width="352"><figcaption><p>Photo de profil de FullBuster / Allan</p></figcaption></figure>
 
 Un petit texte en attente de rédaction

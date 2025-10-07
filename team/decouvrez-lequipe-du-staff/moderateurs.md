@@ -10,7 +10,7 @@ Le rôle du modérateur sur Vespucci RP est principalement de répondre au deman
 
 🌴Modérateur de Vespucci RP
 
-<figure><img src="../../.gitbook/assets/a_926afd081192356b305a77b83d9db234.gif" alt=""><figcaption><p>Photo de profil de Tatsuya / Tora</p></figcaption></figure>
+<figure><img src="../../assets/a_926afd081192356b305a77b83d9db234.gif" alt=""><figcaption><p>Photo de profil de Tatsuya / Tora</p></figcaption></figure>
 
 Petit texte de présentation a venir
 
@@ -18,6 +18,6 @@ Petit texte de présentation a venir
 
 🌴Modératrice de Vespucci RP
 
-<figure><img src="../../.gitbook/assets/581d6d10caae7a2ccdbea6cde69e982e.png" alt="" width="265"><figcaption><p>Photo de profil de Mia / Milly</p></figcaption></figure>
+<figure><img src="../../assets/581d6d10caae7a2ccdbea6cde69e982e.png" alt="" width="265"><figcaption><p>Photo de profil de Mia / Milly</p></figcaption></figure>
 
 Petit texte de présentation a venir

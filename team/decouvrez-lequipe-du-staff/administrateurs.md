@@ -10,7 +10,7 @@ Le rôle de l'administrateur sur Vespucci RP est d'aider principalement les joue
 
 💪🏻Administrateur de Vespucci RP
 
-<figure><img src="../../.gitbook/assets/a_6707f889c51d2b25584687d7e1eecbd3 (2).gif" alt=""><figcaption><p>Photo de profil de Resfa / Kayden</p></figcaption></figure>
+<figure><img src="../../assets/a_6707f889c51d2b25584687d7e1eecbd3 (2).gif" alt=""><figcaption><p>Photo de profil de Resfa / Kayden</p></figcaption></figure>
 
 Bio
 

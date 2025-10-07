@@ -10,6 +10,6 @@ Le rôle d'un support sur Vespucci RP est de principalement répondre a toutes l
 
 🫠 Support sur Vespucci RP
 
-<figure><img src="../../.gitbook/assets/strike.jpg" alt="" width="375"><figcaption><p>Photo de profil de Strike / Simon Joker</p></figcaption></figure>
+<figure><img src="../../assets/strike.jpg" alt="" width="375"><figcaption><p>Photo de profil de Strike / Simon Joker</p></figcaption></figure>
 
 Petit texte de présentation a venir
