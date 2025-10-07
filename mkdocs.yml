@@ -28,9 +28,6 @@ markdown_extensions:
   - tables
 nav:
   - 🏠 Accueil: index.md
-  - ❓ À propos:
-    - Notre vision, mission & objectifs: about-us/notre-vision-mission-and-nos-objectifs.md
-    - Nos valeurs: about-us/nos-valeurs.md
   - 🧑‍🦯 Bien démarrer:
     - Guide du nouvel arrivant: bien-demarrer-sur-midnight/guide-du-nouvel-arrivant.md
   - 📕 Règlement général:
@@ -49,6 +46,9 @@ nav:
     - 📖 Règlement des jobs: reglement-specifique/reglement-de-jobs.md
     - 🥷 Règlement des criminels: reglement-specifique/reglement-des-criminels.md
   - 👯 Équipe: team/decouvrez-lequipe-du-staff/README.md
+  - ❓ À propos:
+    - Notre vision, mission & objectifs: about-us/notre-vision-mission-and-nos-objectifs.md
+    - Nos valeurs: about-us/nos-valeurs.md
 extra:
   social:
     - icon: fontawesome/brands/discord
