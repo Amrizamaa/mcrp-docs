@@ -14,7 +14,7 @@ theme:
     - navigation.top
     - search.highlight
     - search.share
-  logo: assets/images/logo.svg
+  logo: assets/logo_serveur.png
   favicon: assets/images/favicon.ico
 plugins:
   - search

@@ -15,12 +15,12 @@
   box-shadow: 0 0 0.3rem rgba(74, 222, 128, 0.4) !important;
 }
 
-/* Logo personnalisé */
-.md-header__button.md-logo img,
-.md-header__button.md-logo svg {
-  height: 2rem !important;
+/* Logo PNG du serveur */
+.md-header__button.md-logo img {
+  height: 2.5rem !important;
   width: auto !important;
-  filter: brightness(1.1) !important;
+  filter: none !important;
+  object-fit: contain !important;
 }
 
 /* Navigation principale - propre */
