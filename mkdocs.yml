@@ -15,7 +15,7 @@ theme:
     - search.highlight
     - search.share
   logo: assets/logo_serveur.png
-  favicon: assets/images/favicon.ico
+  favicon: assets/favicon.ico
 plugins:
   - search
 
@@ -27,35 +27,28 @@ markdown_extensions:
   - attr_list
   - tables
 nav:
-  - Accueil: index.md
-  - À propos:
+  - 🏠 Accueil: index.md
+  - ❓ À propos:
     - Notre vision, mission & objectifs: about-us/notre-vision-mission-and-nos-objectifs.md
     - Nos valeurs: about-us/nos-valeurs.md
-  - Bien démarrer:
-    - Guide du nouvel arrivant: bien-demarrer-sur-vespucci/guide-du-nouvel-arrivant.md
-  - Règlement général:
-    - Donations & contreparties: reglement-general/donations-et-contreparties.md
-    - Informations pour les streamers: reglement-general/informations-pour-les-streamers.md
+  - 🧑‍🦯 Bien démarrer:
+    - Guide du nouvel arrivant: bien-demarrer-sur-midnight/guide-du-nouvel-arrivant.md
+  - 📕 Règlement général:
+    - 🏠 Accueil: reglement-general/README.md
     - Généralités & Termes:
-      - Accueil: reglement-general/generalites-et-termes/README.md
-      - Règles concernant les comas: reglement-general/generalites-et-termes/regles-concernant-les-comas.md
-      - Safezones: reglement-general/generalites-et-termes/safezones.md
-      - Termes RP: reglement-general/generalites-et-termes/termes-rp.md
-    - Interdictions:
-      - Accueil: reglement-general/interdictions/README.md
-      - Interdictions des citoyens non whitelist: reglement-general/interdictions/interdictions-des-citoyens-non-whitelist.md
-  - Règlement spécifique:
-    - Code pénal: reglement-specifique/code-penal.md
-    - DEFCONs: reglement-specifique/defcons.md
-    - Règlement des jobs: reglement-specifique/reglement-de-jobs.md
-    - Règlement des criminels: reglement-specifique/reglement-des-criminels.md
-  - Équipe:
-    - Découvrir l’équipe du staff:
-      - Accueil: team/decouvrez-lequipe-du-staff/README.md
-      - Administrateurs: team/decouvrez-lequipe-du-staff/administrateurs.md
-      - Modérateurs: team/decouvrez-lequipe-du-staff/moderateurs.md
-      - Pôle décisionnaire: team/decouvrez-lequipe-du-staff/pole-decisionnaire.md
-      - Support: team/decouvrez-lequipe-du-staff/support.md
+      - ⚖️ Introduction: reglement-general/generalites-et-termes/README.md
+      - 🏥 Règles concernant les comas: reglement-general/generalites-et-termes/regles-concernant-les-comas.md
+      - 🦺 Safezones: reglement-general/generalites-et-termes/safezones.md
+      - 📖 Termes RP: reglement-general/generalites-et-termes/termes-rp.md
+    - ⛔ Interdictions: reglement-general/interdictions/README.md
+    - 📹 Informations pour les streamers: reglement-general/informations-pour-les-streamers.md
+    - 💸 Donations & contreparties: reglement-general/donations-et-contreparties.md
+  - 📙 Règlement spécifique:
+    - 🔨 Code pénal: reglement-specifique/code-penal.md
+    - 👮 DEFCONs: reglement-specifique/defcons.md
+    - 📖 Règlement des jobs: reglement-specifique/reglement-de-jobs.md
+    - 🥷 Règlement des criminels: reglement-specifique/reglement-des-criminels.md
+  - 👯 Équipe: team/decouvrez-lequipe-du-staff/README.md
 extra:
   social:
     - icon: fontawesome/brands/discord

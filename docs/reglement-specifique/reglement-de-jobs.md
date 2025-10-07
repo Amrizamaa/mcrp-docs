@@ -7,33 +7,45 @@ description: Informations importante concernant certains jobs vitaux de la ville
 
 
 <details>
+<summary>👮🏻 - LSPD &amp; tout ses départements</summary>
 
-<summary>👮🏻 - LSPD &#x26; tout ses départements</summary>
+<h4>🎯 Recrutement</h4>
 
-**Recrutement** :
+<p>Pour rejoindre le LSPD, il faut posséder la citoyenneté américaine et ensuite passer par un processus de sélection.</p>
 
-Pour rejoindre le LSPD, il faut posséder une carte de résident permanent ou la citoyenneté américaine et ensuite passer par un processus de sélection, Une voix mature est essentielle car un entretien est prévu pour évaluer ta candidature. Nous recherchons un respect total envers le LSPD et une soumission à leurs décisions, indépendamment de ton background.
+<ul>
+<li>Une voix mature est essentielle car un entretien est prévu pour évaluer ta candidature</li>
+<li>Nous recherchons un respect total envers le LSPD et une soumission à leurs décisions, indépendamment de ton background</li>
+</ul>
 
-**Note importante** : Le rôle de flic ripoux n'est pas accessible immédiatement. Si c'est ton objectif, attends le feu vert des staffs. Si tu dois l'incarner suite à des actions RP, prépare un dossier avec les détails
+<h4>⚠️ Note importante</h4>
+
+<p>Le rôle de flic ripoux n'est pas accessible immédiatement. Si c'est ton objectif, attends le feu vert des staffs. Si tu dois l'incarner suite à des actions RP, prépare un dossier avec les détails.</p>
 
 </details>
 
 <details>
-
 <summary>🧑🏻‍⚕️ - Ambulancier (EMS)</summary>
 
-Les EMS sont les anges gardiens de Los Santos, toujours prêts à soigner et aider les citoyens. L'Hôpital principal est l'Éclipse Tower Medical Center (ETMC).
+<p>Les EMS sont les anges gardiens de Los Santos, toujours prêts à soigner et aider les citoyens. L'Hôpital principal est l'<strong>Éclipse Tower Medical Center (ETMC)</strong>.</p>
 
-Après avoir reçu des soins, respecte les prescriptions des médecins (respect du painRP).
+<h4>📋 Règles à respecter</h4>
 
-Lors des interventions EMS, facilite leur travail en détaillant les blessures avec un /me.
+<ul>
+<li>Après avoir reçu des soins, respecte les prescriptions des médecins (respect du painRP)</li>
+<li>Lors des interventions EMS, facilite leur travail en détaillant les blessures avec un <code>/me</code></li>
+<li>Si les EMS t'orientent vers l'hôpital pour des soins supplémentaires, suis leur avis</li>
+</ul>
 
-Si les EMS t'orientent vers l'hôpital pour des soins supplémentaires, suis leur avis.
+<h4>🚫 Interdictions</h4>
 
-Interdiction absolue de voler des véhicules EMS.
+<ul>
+<li>Interdiction absolue de voler des véhicules EMS</li>
+<li>Aucune prise d'otage ni braquage de membres EMS n'est permis, sauf scène RP validée par le staff</li>
+</ul>
 
-Aucune prise d'otage ni braquage de membres EMS n'est permis, sauf scène RP validée par le staff.
+<h4>📋 Prérequis</h4>
 
-Afin de travailler dans les EMS il faut posséder une carte de résident permanent ou la citoyenneté américaine
+<p>Afin de travailler dans les EMS il faut posséder une carte de résident permanent ou la citoyenneté américaine.</p>
 
 </details>

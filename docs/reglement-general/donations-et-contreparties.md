@@ -8,11 +8,11 @@ Sur Midnight City, nous avons mis en place un système de donations avec des pet
 
 Les donations auront deux priorités : financer le serveur et acquérir des scripts pour améliorer le gameplay.
 
-Pour faire un don, rendez-vous sur notre Discord. Là, vous trouverez un lien vers notre page de donations PayPal ou Tebex. Vous pourrez choisir le montant que vous voulez donner.
+Pour faire un don, rendez-vous sur notre Discord. Là, vous trouverez un lien vers notre page de donations Tebex ou Tip4Serv. Vous pourrez choisir le montant que vous voulez donner.
 
-Attention : n'oubliez pas d'ajouter votre NOM + PRÉNOM RP lors du don. Cela nous permettra de vous attribuer vos VCoin dans les 48 heures, directement à votre personnage.
+Attention : n'oubliez pas d'ajouter votre NOM + PRÉNOM RP lors du don. Cela nous permettra de vous attribuer vos MCoin dans les 48 heures, directement à votre personnage.
 
-Petite info : 1 VCoin = 1 EURO
+Petite info : 1 MCoin = 1 EURO
 
 Une fois votre don effectué, ouvrez un ticket sur notre Discord et choisissez l'une de ces récompenses :
 
@@ -30,4 +30,4 @@ Enfin, n'oubliez pas : une donation est un geste par lequel vous transmettez de 
 
 Donc, si vous faites une donation chez nous, c'est un geste qui compte et qui profitera à l'ensemble de notre aventure RP !
 
-\
+

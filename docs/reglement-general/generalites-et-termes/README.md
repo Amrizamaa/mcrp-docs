@@ -1,32 +1,34 @@
-# 🤝 GENERALITÉS ET TERMES
+# ⚖️ Généralits
 
 Le présent règlement s'applique dès l'entrée sur le discord ou la plate-forme de jeu de Midnight City, à savoir le serveur FiveM
 
-{% hint style="warning" %}
-Règle d'OR :&#x20;
+!!! warning "Règle d'OR"
+    ⚖️ **Agissez comme vous l'auriez fait dans la vie.** 
+    
+    💭 Posez-vous toujours la question suivante : *"Aurais-je pu le faire si cette action se passait IRL ?"*ing "Règle d'OR"
+    ⚖️ **Agissez comme vous l'auriez fait dans la vie.** 
+    
+    💭 Posez-vous toujours la question suivante : *"Aurais-je pu le faire si cette action se passait IRL ?"*ralités et Termes
 
-* Agissez comme vous l’auriez fait dans la vie. Posez-vous toujours la question suivante : aurais-je pu le faire si cette action se passait IRL ?
-{% endhint %}
+!!! info "À propos de Midnight City"
+    🌟 **Midnight City est un serveur basé sur le volontariat** de ses propriétaires et de son staff. 
+    
+    🗺️ Sur ce serveur, un univers américain basé sur la map de GTA V est mis en place. 
+    
+    🎯 **La philosophie de l'équipe** se base sur la tranquillité de ses joueurs et l'offre qui leur est faite, à savoir pouvoir jouer gratuitement sur un serveur de qualité. Cela engage le respect des valeurs fondamentales indiquées précédemment.
 
-{% hint style="info" %}
-Midnight City est un serveur basé sur le volontariat de ses propriétaires et de son staff. Sur ce serveur un univers américain basé sur la map de GTA V est mis en place. La philosophie de l'équipe du serveur se base sur la tranquillité de ses joueurs et l'offre qui leur est faite, à savoir pouvoir jouer gratuitement sur un serveur de qualité. cela engage le respect des valeurs fondamentales indiqués précédemment.
-{% endhint %}
-
-{% hint style="danger" %}
-Le Règlement du serveur est à lire et à connaître. Certaines fautes peuvent aller d'un simple avertissement à un ban définitif.
-
-Si les règles ne sont pas respectées, vous sera sanctionnés de la
-
-manière suivante :
-
-1 : Avertissement oral
-
-2 : Avertissement de Niveau 1
-
-3 : Avertissement de Niveau 2
-
-4: Ban Définitif
-{% endhint %}
+!!! danger "Sanctions et Règlement"
+    📖 **Le Règlement du serveur est à lire et à connaître.** Certaines fautes peuvent aller d'un simple avertissement à un ban définitif.
+    
+    ⚠️ **Si les règles ne sont pas respectées, vous serez sanctionnés de la manière suivante :**
+    
+    1️⃣ **Avertissement oral**
+    
+    2️⃣ **Avertissement de Niveau 1**
+    
+    3️⃣ **Avertissement de Niveau 2**
+    
+    4️⃣ **Ban Définitif**
 
 ### Le Respect
 
@@ -56,11 +58,21 @@ Ces astuces vous aideront à rester dans le jeu même en cas d'incidents inatten
 * Les discussions Hors RolePlay (HRP) doivent être tenues dans les canaux appropriés. et ne doivent jamais sortir de ces canaux (Sinon c'est du MétaGaming et la sa va barder)
 * Il est interdit d’envoyer des messages privés à des femmes pour leur demander des informations personnelles ou autre .
 
-{% hint style="info" %}
-Petit guide pour les moments ou l'on réagit a chaud :&#x20;
 
-* Une fois la scène finie, calmement, ouvrez un ticket ou rejoignez le canal "besoin d'aide".
-* Pas de vantardise avec des infos HRP (Discord, Chat in-game, streams...).
-* Streaming et jeu, chacun son tour. Pas de streamhack ici !
-* Hélicoptères et armes PNJ restent là où ils sont. Pas de vol chez eux.
-{% endhint %}
+!!! danger "Interdictions strictes"
+    - Il est interdit d'envoyer des messages privés à des membres du serveur pour quoi que ce soit hormis si cela est en rapport avec le RP
+    - Les salons RP doivent rester totalement RP (pas de HRP). Les conversations HRP ne doivent pas avoir existence en jeu
+    - Les discussions Hors RolePlay (HRP) doivent être tenues dans les canaux appropriés et ne doivent jamais sortir de ces canaux (Sinon c'est du MétaGaming)
+    - Il est interdit d'envoyer des messages privés à des femmes pour leur demander des informations personnelles ou autre'entrée sur le discord ou la plate-forme de jeu de Midnight City, à savoir le serveur FiveM.
+
+
+
+!!! tip "😤 Petit guide pour les moments où l'on réagit à chaud :"
+   
+    🎫 **Une fois la scène finie,** calmement, ouvrez un ticket ou rejoignez le canal "besoin d'aide"
+    
+    🚫 **Pas de vantardise** avec des infos HRP (Discord, Chat in-game, streams...)
+    
+    📺 **Streaming et jeu,** chacun son tour. Pas de streamhack ici !
+    
+    🚁 **Hélicoptères et armes PNJ** restent là où ils sont. Pas de vol chez eux
