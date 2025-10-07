@@ -6,13 +6,13 @@ Cette section regroupe toutes les règles et informations essentielles pour bien
 
 ## 📋 Sections disponibles
 
-### 📚 [Généralités & Termes](generalites-et-termes/generalites-et-termes)
+### 📚 [Généralités & Termes](generalites-et-termes/README.md)
 Les bases du roleplay et les termes à connaître :
 - Règles concernant les comas
 - Safezones
 - Termes RP essentiels
 
-### 🚫 [Interdictions](interdictions)
+### 🚫 [Interdictions](interdictions/README.md)
 Ce qui est strictement interdit sur le serveur :
 - Règles pour les citoyens non whitelist
 - Interdictions générales
