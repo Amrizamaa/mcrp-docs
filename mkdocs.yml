@@ -1,5 +1,6 @@
 site_name: Midnight City – Règlements
 site_url: https://docs.midnightcityrp.com
+docs_dir: docs
 theme:
   name: material
   language: fr
@@ -32,12 +33,12 @@ nav:
     - Donations & contreparties: reglement-general/donations-et-contreparties.md
     - Informations pour les streamers: reglement-general/informations-pour-les-streamers.md
     - Généralités & Termes:
-      - Accueil: reglement-general/generalites-et-termes/index.md
+      - Accueil: reglement-general/generalites-et-termes/README.md
       - Règles concernant les comas: reglement-general/generalites-et-termes/regles-concernant-les-comas.md
       - Safezones: reglement-general/generalites-et-termes/safezones.md
       - Termes RP: reglement-general/generalites-et-termes/termes-rp.md
     - Interdictions:
-      - Accueil: reglement-general/interdictions/index.md
+      - Accueil: reglement-general/interdictions/README.md
       - Interdictions des citoyens non whitelist: reglement-general/interdictions/interdictions-des-citoyens-non-whitelist.md
   - Règlement spécifique:
     - Code pénal: reglement-specifique/code-penal.md
@@ -46,12 +47,12 @@ nav:
     - Règlement des criminels: reglement-specifique/reglement-des-criminels.md
   - Équipe:
     - Découvrir l’équipe du staff:
-      - Accueil: team/decouvrez-lequipe-du-staff/index.md
+      - Accueil: team/decouvrez-lequipe-du-staff/README.md
       - Administrateurs: team/decouvrez-lequipe-du-staff/administrateurs.md
       - Modérateurs: team/decouvrez-lequipe-du-staff/moderateurs.md
       - Pôle décisionnaire: team/decouvrez-lequipe-du-staff/pole-decisionnaire.md
       - Support: team/decouvrez-lequipe-du-staff/support.md
 extra:
   social:
-    - icon: material/discord
+    - icon: fontawesome/brands/discord
       link: https://discord.gg/ton-invite
